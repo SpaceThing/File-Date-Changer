@@ -37,5 +37,9 @@ File Date Changer is a Windows utility that enables users to modify file creatio
 - **Backup**: Always maintain a backup of important files before using the tool.
 - **Permissions**: Ensure adequate permissions for executing scripts and modifying file timestamps.
 
+ ## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Contributing
-- Feel free to fork the repository, make changes, and submit pull requests. Your contributions are welcome!
+Feel free to fork the repository, make changes, and submit pull requests. Your contributions are welcome!
