@@ -1,9 +1,13 @@
 # File-Date-Changer
 File Date Changer is a Windows utility that enables users to modify file creation and modification dates directly from the context menu. It simplifies the process of managing file timestamps, providing a convenient way to organize and update file dates effortlessly.
 
-# Usage Guide:
+## Features
+- Change file creation and modification dates.
+- Integrate into the Windows context menu for quick access.
+
+## How to Use
 1. Adding File Date Changer to Context Menu:
-    - Run the application(run as administrator) and click on "Add to Context Menu."\
+    - Run the application (run as administrator) and click on "Add to Context Menu."\
       ![image](https://github.com/nducmd/File-Date-Changer/assets/110773590/93e243c7-7d0a-4275-bd88-646cdb92faa1)
     - This adds an option "Change File Dates" to the right-click context menu for files.\
      ![image](https://github.com/nducmd/File-Date-Changer/assets/110773590/b242760f-5a2e-463d-89b3-119b61e4344e)
@@ -18,6 +22,20 @@ File Date Changer is a Windows utility that enables users to modify file creatio
 3. Removing File Date Changer from Context Menu:
     - Run the application and click on "Remove from Context Menu."
     - This removes the "Change File Dates" option from the right-click context menu.
+      
 4. Shortcut (F1 Key) for Quick Access:
     - While the GUI for changing file dates is open, press the F1 key to close it.
     - This will automatically open the GUI to add or remove File Date Changer from the context menu.
+## Requirements
+
+- Windows operating system (tested on Windows 10)
+- Run as administrator privileges for initial setup
+## Installation
+- Download the latest release package from the [Releases page](https://github.com/nducmd/File-Date-Changer/releases).
+- Extract the contents and run the executable file.
+## Notes
+- **Backup**: Always maintain a backup of important files before using the tool.
+- **Permissions**: Ensure adequate permissions for executing scripts and modifying file timestamps.
+
+## Contributing
+- Feel free to fork the repository, make changes, and submit pull requests. Your contributions are welcome!
