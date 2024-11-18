@@ -1,3 +1,9 @@
+# 日志
+增加汉化
+分离需要管理员权限的代码
+增加图标
+优化显示效果
+
 # File-Date-Changer
 File Date Changer is a Windows utility that enables users to modify file creation and modification dates directly from the context menu. It simplifies the process of managing file timestamps, providing a convenient way to organize and update file dates effortlessly.
 
